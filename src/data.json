@@ -1,0 +1,332 @@
+[
+    {
+    "id": 1,
+    "title": "Robbery in Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "description": "A robbery occurred at a jewelry store in Mumbai. The suspects stole valuable items and fled the scene.",
+    "imageUrl": "https://images.pexels.com/photos/6266769/pexels-photo-6266769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Latitude": 19.0760,
+    "Longitude": 72.8777,
+    "date": "2024-03-12"
+  },
+  {
+    "id": 2,
+    "title": "Vehicle Theft in Delhi",
+    "location": "Delhi",
+    "description": "A vehicle was stolen from the parking lot of a residential complex in Delhi. The vehicle was later recovered abandoned.",
+    "imageUrl": "https://media.istockphoto.com/id/1205468676/photo/man-stealing-a-car.jpg?s=612x612&w=0&k=20&c=C6fZFSvzL8mQO38LNRrj7Qr5_zQ8vIY8DG4aj_qZ9Ws=",
+    "Latitude": 28.7041,
+    "Longitude": 77.1025,
+    "date": "2024-05-08"
+  },
+  {
+    "id": 3,
+    "title": "Assault Case in Bangalore",
+    "location": "Bangalore, Karnataka",
+    "description": "An assault case was reported in a park in Bangalore. The victim suffered injuries and the police are investigating.",
+    "imageUrl": "https://media.istockphoto.com/id/1332523279/photo/domestic-violence-mans-clenched-fist.jpg?s=612x612&w=0&k=20&c=hp_eahMcHd1r6sjxc7ytFHVi2kQ5toPEJl5NAeyjvHw=",
+    "Latitude": 12.9716,
+    "Longitude": 77.5946,
+    "date": "2024-01-22"
+  },
+  {
+    "id": 4,
+    "title": "Burglary in Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "description": "Burglars broke into a house in Chennai and stole electronics and cash. The investigation is ongoing.",
+    "imageUrl": "https://media.istockphoto.com/id/1335159036/photo/bandit-in-balaclava-holding-a-crowbar-to-break-a-glass-window.jpg?s=612x612&w=0&k=20&c=7aBBpHJmrEw2CHPOgPFOW77KXTV3kMROlXWooyfYGn0=",
+    "Latitude": 13.0827,
+    "Longitude": 80.2707,
+    "date": "2024-07-14"
+  },
+  {
+    "id": 5,
+    "title": "Cybercrime Incident in Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "description": "A cybercrime incident involving fraudulent transactions was reported in Hyderabad. Authorities are working to trace the perpetrators.",
+    "imageUrl": "https://media.istockphoto.com/id/1144604245/photo/a-computer-system-hacked-warning.jpg?s=612x612&w=0&k=20&c=U45FHOm5rflXIRqmYByxlQANtdtycEdFZz2Vp5dgI8E=",
+    "Latitude": 17.3850,
+    "Longitude": 78.4867,
+    "date": "2024-04-20"
+  },
+  {
+    "id": 6,
+    "title": "Drug Bust in Kolkata",
+    "location": "Kolkata, West Bengal",
+    "description": "A major drug bust took place in Kolkata, with several arrests made. Drugs and paraphernalia were seized.",
+    "imageUrl": "https://media.istockphoto.com/id/917333680/photo/addict-at-the-table-pulls-his-hand-to-the-syringe-with-the-dose.jpg?s=612x612&w=0&k=20&c=YpRBhsF_1solidKOXZc73gdHao51e-w3Zpxvb9dAku8=",
+    "Latitude": 22.5726,
+    "Longitude": 88.3639,
+    "date": "2024-09-01"
+  },
+  {
+    "id": 7,
+    "title": "Kidnapping Case in Pune",
+    "location": "Pune, Maharashtra",
+    "description": "A kidnapping case was reported in Pune. The victim was rescued and the suspects are in custody.",
+    "imageUrl": "https://media.istockphoto.com/id/1359349255/vector/kidnapped-girl-criminal-scene-illustration-vector.jpg?s=612x612&w=0&k=20&c=u8Z6Dw6J7qiQot6c0t5tOhUVrNUdPIq49PVSNyp6IwM=",
+    "Latitude": 18.5204,
+    "Longitude": 73.8567,
+    "date": "2024-06-25"
+  },
+  {
+    "id": 8,
+    "title": "Domestic Violence Incident in Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "description": "A domestic violence incident was reported in Jaipur. The victim received medical attention and the authorities are investigating.",
+    "imageUrl": "https://media.istockphoto.com/id/1369137588/photo/domestic-violence-african-american-man-threatening-wife-and-daughter-with-his-fist.jpg?s=612x612&w=0&k=20&c=tG1TqO7Ww5XPl75s5GrFR4LOSoqJMotcJw5vDgM-usY=",
+    "Latitude": 26.9124,
+    "Longitude": 75.7873,
+    "date": "2024-10-10"
+  },
+  {
+    "id": 9,
+    "title": "Homicide in Surat",
+    "location": "Surat, Gujarat",
+    "description": "A homicide occurred in Surat. The victim was found dead, and the police are working on solving the case.",
+    "imageUrl": "https://media.istockphoto.com/id/185305538/photo/killing-scene.jpg?s=612x612&w=0&k=20&c=c0Qki6Zhm5NerzY7IOFHuIclQn9cUV-w6M1jjUAwZmg=",
+    "Latitude": 21.1702,
+    "Longitude": 72.8311,
+    "date": "2024-08-30"
+  },
+  {
+    "id": 10,
+    "title": "Robbery Attempt in Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "description": "An attempted robbery was thwarted in Ahmedabad. The suspects were apprehended before they could escape.",
+    "imageUrl": "https://media.istockphoto.com/id/838523142/photo/pickpocket.jpg?s=612x612&w=0&k=20&c=OmXthJLGjCSaavmICYSQeFTv8LOxAEhN4jtMilYB9tU=",
+    "Latitude": 23.0225,
+    "Longitude": 72.5714,
+    "date": "2024-11-05"
+  },
+  {
+      "id": 11,
+      "title": "Arson Attack in Noida",
+      "location": "Noida, Uttar Pradesh",
+      "description": "An arson attack was reported in Noida. Several vehicles were set on fire, and the authorities are investigating the cause.",
+      "imageUrl": "https://media.istockphoto.com/id/1300198042/photo/fire-damaged-building.jpg?s=612x612&w=0&k=20&c=zle1t8j4Ne_cwH1zWq79qbdYYu5bEztmRMuz6qzh5A=",
+      "Latitude": 28.5355,
+      "Longitude": 77.3910,
+      "date": "2024-05-20"
+  },
+  {
+      "id": 12,
+      "title": "Theft in Jaipur",
+      "location": "Jaipur, Rajasthan",
+      "description": "A theft occurred in Jaipur where valuable items were stolen from a boutique. The police are on the lookout for suspects.",
+      "imageUrl": "https://media.istockphoto.com/id/1039728720/photo/burglar-mask-and-screwdriver.jpg?s=612x612&w=0&k=20&c=Tb1msA9JONisThW3Ue10_d4XBbbxipMmYvKnE7G9Y7o=",
+      "Latitude": 26.9124,
+      "Longitude": 75.7873,
+      "date": "2024-06-05"
+  },
+  {
+      "id": 13,
+      "title": "Sexual Assault Case in Bangalore",
+      "location": "Bangalore, Karnataka",
+      "description": "A case of sexual assault was reported in Bangalore. The victim is receiving support, and the police are investigating the incident.",
+      "imageUrl": "https://media.istockphoto.com/id/1168675326/photo/sexual-assault-victims-are-afraid-of-telling-what-happened.jpg?s=612x612&w=0&k=20&c=RtNBrAHzQWq6YFyoJ2hIItubewXQGrj3AqZrUjUZ7m0=",
+      "Latitude": 12.9716,
+      "Longitude": 77.5946,
+      "date": "2024-07-22"
+  },
+  {
+      "id": 14,
+      "title": "Robbery in Mumbai",
+      "location": "Mumbai, Maharashtra",
+      "description": "A robbery took place in a residential area of Mumbai. Several residents were affected, and the police are investigating.",
+      "imageUrl": "https://media.istockphoto.com/id/1153168338/photo/robbery.jpg?s=612x612&w=0&k=20&c=BNvZyo0ExX4ZB1J1vSmL42H8kbspmdp8PbB4ShNc3yU=",
+      "Latitude": 19.0760,
+      "Longitude": 72.8777,
+      "date": "2024-08-15"
+  },
+  {
+      "id": 15,
+      "title": "Vandalism in Hyderabad",
+      "location": "Hyderabad, Telangana",
+      "description": "Several public properties were vandalized in Hyderabad. The authorities are reviewing CCTV footage to identify the perpetrators.",
+      "imageUrl": "https://media.istockphoto.com/id/1214313878/photo/vandalism-in-the-street.jpg?s=612x612&w=0&k=20&c=HwXyL6tXj7u0A5sQsD4rf3iC8rtAphAu7Jci3bKPqE=",
+      "Latitude": 17.3850,
+      "Longitude": 78.4867,
+      "date": "2024-09-12"
+  },
+  {
+      "id": 16,
+      "title": "Fraudulent Scheme in Kolkata",
+      "location": "Kolkata, West Bengal",
+      "description": "A fraudulent scheme involving fake investments was uncovered in Kolkata. The authorities are investigating multiple suspects.",
+      "imageUrl": "https://media.istockphoto.com/id/1056123158/photo/fraudulent-activity.jpg?s=612x612&w=0&k=20&c=E0Q4ahf1VfmbRPLo6l3m8fZb0ceQb2aM6o24k6SEaEo=",
+      "Latitude": 22.5726,
+      "Longitude": 88.3639,
+      "date": "2024-10-18"
+  },
+  {
+      "id": 17,
+      "title": "Human Trafficking Ring in Pune",
+      "location": "Pune, Maharashtra",
+      "description": "A human trafficking ring was dismantled in Pune. Several individuals were arrested, and the authorities are working on further investigations.",
+      "imageUrl": "https://media.istockphoto.com/id/1145788891/photo/human-trafficking.jpg?s=612x612&w=0&k=20&c=0rxEKTABioFNVbdubV4qRjPZV5xO7DkvXhe5xie3rg=",
+      "Latitude": 18.5204,
+      "Longitude": 73.8567,
+      "date": "2024-11-01"
+  },
+  {
+      "id": 18,
+      "title": "Shoplifting Incident in Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "description": "A shoplifting incident occurred at a retail store in Chennai. The suspects were caught on CCTV, and the investigation is ongoing.",
+      "imageUrl": "https://media.istockphoto.com/id/1188308676/photo/shoplifting.jpg?s=612x612&w=0&k=20&c=X0lQet4DkQU4CXX5OQ3-pkM-rx1v9N6wojw5zXQCTzI=",
+      "Latitude": 13.0827,
+      "Longitude": 80.2707,
+      "date": "2024-12-05"
+  },
+  {
+      "id": 19,
+      "title": "Extortion Case in Surat",
+      "location": "Surat, Gujarat",
+      "description": "An extortion case was reported in Surat. The suspects were demanding money from local businesses, and several arrests have been made.",
+      "imageUrl": "https://media.istockphoto.com/id/1168175597/photo/extortion.jpg?s=612x612&w=0&k=20&c=BstNEumvXc9DJ3tTw8wnwXyS2MIbe86FzHTVwLME7nI=",
+      "Latitude": 21.1702,
+      "Longitude": 72.8311,
+      "date": "2024-10-30"
+  },
+  {
+      "id": 20,
+      "title": "Illegal Gambling Raid in Ahmedabad",
+      "location": "Ahmedabad, Gujarat",
+      "description": "An illegal gambling operation was raided in Ahmedabad. Many people were detained, and the authorities seized gambling equipment.",
+      "imageUrl": "https://media.istockphoto.com/id/1186053050/photo/illegal-gambling.jpg?s=612x612&w=0&k=20&c=nA4ETxyuAz9o_S5Oewl5VvIRHmx-0v8qTiVOd5GIR8s=",
+      "Latitude": 23.0225,
+      "Longitude": 72.5714,
+      "date": "2024-11-20"
+  },
+  {
+      "id": 21,
+      "title": "Drug Trafficking in Mumbai",
+      "location": "Mumbai, Maharashtra",
+      "description": "A drug trafficking ring was busted in Mumbai. Several arrests were made, and drugs were seized.",
+      "imageUrl": "https://media.istockphoto.com/id/1059790358/photo/drug-bust.jpg?s=612x612&w=0&k=20&c=GQtfZ2McbfXxEGuFL-kXpqZ2n2Yc9C9OynCMjsy34K8=",
+      "Latitude": 19.0760,
+      "Longitude": 72.8777,
+      "date": "2024-01-15"
+  },
+  {
+      "id": 22,
+      "title": "Assault in Delhi",
+      "location": "Delhi",
+      "description": "An assault case was reported in Delhi. The victim is receiving medical treatment, and suspects are under investigation.",
+      "imageUrl": "https://media.istockphoto.com/id/1299143155/photo/assault.jpg?s=612x612&w=0&k=20&c=nUQzH1ghXnbWk2Y_lkkNmGxlXoZkpw5-LcNm_Mm2S9A=",
+      "Latitude": 28.7041,
+      "Longitude": 77.1025,
+      "date": "2024-02-20"
+  },
+  {
+      "id": 23,
+      "title": "Burglary in Bangalore",
+      "location": "Bangalore, Karnataka",
+      "description": "Burglars broke into an electronics store in Bangalore. The investigation is ongoing, and security footage is being reviewed.",
+      "imageUrl": "https://media.istockphoto.com/id/1335159095/photo/burglary.jpg?s=612x612&w=0&k=20&c=7rN99CQeoG7RQ_5NeyuOZyq2gwAu1G0b8kFFnVrA9o=",
+      "Latitude": 12.9716,
+      "Longitude": 77.5946,
+      "date": "2024-03-18"
+  },
+  {
+      "id": 24,
+      "title": "Robbery in Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "description": "A robbery at a jewelry store in Chennai was reported. Authorities are looking for suspects based on CCTV footage.",
+      "imageUrl": "https://media.istockphoto.com/id/1140427268/photo/robbery.jpg?s=612x612&w=0&k=20&c=U3cqUKXsnJoOP0A0HDux2pl-4WTzjSw5B-Q1bkhXQGQ=",
+      "Latitude": 13.0827,
+      "Longitude": 80.2707,
+      "date": "2024-04-22"
+  },
+  {
+      "id": 25,
+      "title": "Human Trafficking in Hyderabad",
+      "location": "Hyderabad, Telangana",
+      "description": "A human trafficking ring was discovered in Hyderabad. Several individuals have been arrested, and the investigation continues.",
+      "imageUrl": "https://media.istockphoto.com/id/1135281254/photo/human-trafficking.jpg?s=612x612&w=0&k=20&c=J_PJtC4FbO5K8M8Y7Bjq9PZ6e0qOB6-jXl4sVBCMxI=",
+      "Latitude": 17.3850,
+      "Longitude": 78.4867,
+      "date": "2024-05-15"
+  },
+  {
+      "id": 26,
+      "title": "Cybercrime in Kolkata",
+      "location": "Kolkata, West Bengal",
+      "description": "A cybercrime case involving identity theft was reported in Kolkata. Authorities are tracking down the offenders.",
+      "imageUrl": "https://media.istockphoto.com/id/1039327758/photo/cybercrime.jpg?s=612x612&w=0&k=20&c=fEJssMKSa6slCGEhZyo14v8J2TyVEwQ2Jb1B21q7Kh4=",
+      "Latitude": 22.5726,
+      "Longitude": 88.3639,
+      "date": "2024-06-25"
+  },
+  {
+      "id": 27,
+      "title": "Vandalism in Pune",
+      "location": "Pune, Maharashtra",
+      "description": "Several public properties were vandalized in Pune. The authorities are investigating the incident and reviewing CCTV footage.",
+      "imageUrl": "https://media.istockphoto.com/id/1136917493/photo/vandalism.jpg?s=612x612&w=0&k=20&c=H8eJcZz6N0iItUEt8h4Pv8-GQrcZ7iZXqeKtVjpB2G0=",
+      "Latitude": 18.5204,
+      "Longitude": 73.8567,
+      "date": "2024-07-10"
+  },
+  {
+      "id": 28,
+      "title": "Theft in Ahmedabad",
+      "location": "Ahmedabad, Gujarat",
+      "description": "A theft was reported at a shopping mall in Ahmedabad. The suspects were caught on security cameras.",
+      "imageUrl": "https://media.istockphoto.com/id/1082395130/photo/theft.jpg?s=612x612&w=0&k=20&c=lYztV36BQym7uhST-a3g8l4H4Qb3G21fciHKPZDLl5o=",
+      "Latitude": 23.0225,
+      "Longitude": 72.5714,
+      "date": "2024-08-05"
+  },
+  {
+      "id": 29,
+      "title": "Extortion in Surat",
+      "location": "Surat, Gujarat",
+      "description": "An extortion case was reported in Surat. The perpetrators were demanding money from local businesses.",
+      "imageUrl": "https://media.istockphoto.com/id/1263031840/photo/extortion.jpg?s=612x612&w=0&k=20&c=nQlFbttWzXQ2yP8z5W1l3R77XZgO2_5G9EjBLdAW_M=",
+      "Latitude": 21.1702,
+      "Longitude": 72.8311,
+      "date": "2024-09-30"
+  },
+  {
+      "id": 30,
+      "title": "Illegal Gambling in Jaipur",
+      "location": "Jaipur, Rajasthan",
+      "description": "An illegal gambling operation was raided in Jaipur. Several people were detained, and gambling equipment was seized.",
+      "imageUrl": "https://media.istockphoto.com/id/1228543480/photo/illegal-gambling.jpg?s=612x612&w=0&k=20&c=e-g1YlR49sS_S2FzPyzqPOlWcyepmWmZ5E5Dmbu0EKw=",
+      "Latitude": 26.9124,
+      "Longitude": 75.7873,
+      "date": "2024-10-15"
+  },
+  {
+      "id": 31,
+      "title": "Arson in Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "description": "An arson attack occurred at a commercial property in Chennai. The fire department has controlled the blaze, and an investigation is underway.",
+      "imageUrl": "https://media.istockphoto.com/id/1161395861/photo/arson.jpg?s=612x612&w=0&k=20&c=O7GVXyWFIhO3DTxv7xtwi7EJH2Qp_bGgGy6dyKp0-uU=",
+      "Latitude": 13.0827,
+      "Longitude": 80.2707,
+      "date": "2024-11-10"
+  },
+  {
+      "id": 32,
+      "title": "Robbery in Bangalore",
+      "location": "Bangalore, Karnataka",
+      "description": "A robbery took place at a bank in Bangalore. The suspects have been identified and are being pursued by the police.",
+      "imageUrl": "https://media.istockphoto.com/id/1177598732/photo/robbery.jpg?s=612x612&w=0&k=20&c=Uhw3zpZkRpH2KzeyM1El7oIbXL5X4W5sA4mo7l0l0g=",
+      "Latitude": 12.9716,
+      "Longitude": 77.5946,
+      "date": "2024-12-20"
+  },
+  {
+      "id": 33,
+      "title": "Sexual Harassment in Delhi",
+      "location": "Delhi",
+      "description": "A case of sexual harassment was reported in Delhi. The accused is in custody, and support services are being provided to the victim.",
+      "imageUrl": "https://media.istockphoto.com/id/1152141910/photo/sexual-harassment.jpg?s=612x612&w=0&k=20&c=8lxPOt_iW0xIUBXInjx8i8zJp9p6EY4Kzhg5oC1G4xM=",
+      "Latitude": 28.7041,
+      "Longitude": 77.1025,
+      "date": "2024-12-30"
+  }
+]

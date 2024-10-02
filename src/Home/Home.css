@@ -1,0 +1,137 @@
+:root {
+  --color-light: rgba(255, 255, 255);
+  --color-dark: #202330;
+  --color-transparent: rgba(255, 255, 255, 0);
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+body {
+   background-color: var(--color-light);
+   z-index: 0;
+}
+
+.l-header {
+  padding: 20px 0;
+  color: var(--color-dark);
+}
+
+.l-bg {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: .3;
+  
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.splide {
+  .splide__slide {
+    position: relative;
+    transform: scale(0.8);
+    transition: transform 0.5s, filter 0.5s;
+    min-height: 450px;
+
+    &.is-active {
+      transform: scale(1);
+      
+      .c-card {
+        background-color: var(--color-light);
+        filter: none;
+      }
+
+      .c-card__image,
+      .c-card__footer {
+        opacity: 1;
+        pointer-events: auto;
+      }
+    }
+
+    &:not(.is-active) {
+      transform: scale(0.9); /* Slightly scale the non-active slides */
+      
+      .c-card {
+        background-color: var(--color-light); /* Set a background color so the card is visible */
+        filter: blur(5px); /* Apply blur effect to the non-active slides */
+      }
+
+      .c-card__image,
+      .c-card__footer {
+        opacity: 1; /* Keep image and footer visible */
+        pointer-events: none; /* Disable interactions */
+      }
+
+      .c-card__title {
+        color: var(--color-dark); /* Keep the title text visible */
+      }
+    }
+  }
+}
+
+.c-card {
+  height: 100%;
+  border: 1px solid var(--color-dark);
+  overflow: hidden;
+  cursor: pointer;
+  
+  .c-card__content {
+    border: 1px solid var(--color-light);
+  }
+  
+  .c-card__header {
+    display: grid;
+    place-items: center;
+    padding: 3rem 2rem;
+    
+    .c-card__title {
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      font-size: 18px;
+      transition: all 400ms ease;
+    }
+  }
+  
+  .c-card__image {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+    transition: all 400ms ease;
+  }
+  
+  .c-card__footer {
+    display: grid;
+    place-items: center;
+    padding: 80px 25px;
+    transition: all 400ms ease;
+  
+    .c-card__link {
+      padding: 12px 20px;
+      color: var(--color-light);
+      background-color: var(--color-dark);
+      border: 1px solid var(--color-dark);
+      font-size: 10px;
+      font-weight: bold;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      transition: all 0.3s ease-in-out;
+      
+      &:hover {
+        color: var(--color-dark);
+        background-color: var(--color-light);
+      }
+    }
+  }
+}
